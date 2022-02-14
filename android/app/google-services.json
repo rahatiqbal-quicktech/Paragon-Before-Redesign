@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "692627639239",
+    "project_id": "paragon-f9e26",
+    "storage_bucket": "paragon-f9e26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692627639239:android:a19e39818bbb4b189867e2",
+        "android_client_info": {
+          "package_name": "com.quicktech.paragonsd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692627639239-pifgvqll5j1epr6jn65sactbhse9q8a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJM9gMM9Y8w2s94WB-oZXZIzr9JXkMvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692627639239-pifgvqll5j1epr6jn65sactbhse9q8a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692627639239:android:d500f8038ecc38fc9867e2",
+        "android_client_info": {
+          "package_name": "com.quicktech.paragonsd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692627639239-pifgvqll5j1epr6jn65sactbhse9q8a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQJM9gMM9Y8w2s94WB-oZXZIzr9JXkMvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692627639239-pifgvqll5j1epr6jn65sactbhse9q8a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
